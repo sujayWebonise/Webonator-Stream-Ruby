@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'shop'
+shop_object = ShopInventory.new
+shop_object.display_menu
